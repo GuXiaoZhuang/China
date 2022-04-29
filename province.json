@@ -1,0 +1,172 @@
+[
+  {
+    "provinceId": 101,
+    "name": "北京市",
+    "weatherId": "ABJ"
+  },
+  {
+    "provinceId": 102,
+    "name": "天津市",
+    "weatherId": "ATJ"
+  },
+  {
+    "provinceId": 103,
+    "name": "上海市",
+    "weatherId": "ASH"
+  },
+  {
+    "provinceId": 104,
+    "name": "重庆市",
+    "weatherId": "ACQ"
+  },
+  {
+    "provinceId": 201,
+    "name": "香港特别行政区",
+    "weatherId": "AXG"
+  },
+  {
+    "provinceId": 202,
+    "name": "澳门特别行政区",
+    "weatherId": "AAM"
+  },
+  {
+    "provinceId": 301,
+    "name": "内蒙古自治区",
+    "weatherId": "ANM"
+  },
+  {
+    "provinceId": 302,
+    "name": "广西壮族自治区",
+    "weatherId": "AGX"
+  },
+  {
+    "provinceId": 303,
+    "name": "西藏自治区",
+    "weatherId": "AXZ"
+  },
+  {
+    "provinceId": 304,
+    "name": "宁夏回族自治区",
+    "weatherId": "ANX"
+  },
+  {
+    "provinceId": 305,
+    "name": "新疆维吾尔族自治区",
+    "weatherId": "AXJ"
+  },
+  {
+    "provinceId": 401,
+    "name": "台湾省",
+    "weatherId": "ATW"
+  },
+  {
+    "provinceId": 402,
+    "name": "黑龙江省",
+    "weatherId": "AHL"
+  },
+  {
+    "provinceId": 403,
+    "name": "吉林省",
+    "weatherId": "AJL"
+  },
+  {
+    "provinceId": 404,
+    "name": "辽宁省",
+    "weatherId": "ALN"
+  },
+  {
+    "provinceId": 405,
+    "name": "河北省",
+    "weatherId": "AHE"
+  },
+  {
+    "provinceId": 406,
+    "name": "河南省",
+    "weatherId": "AHA"
+  },
+  {
+    "provinceId": 407,
+    "name": "山西省",
+    "weatherId": "ASX"
+  },
+  {
+    "provinceId": 408,
+    "name": "山东省",
+    "weatherId": "ASD"
+  },
+  {
+    "provinceId": 409,
+    "name": "江苏省",
+    "weatherId": "AJS"
+  },
+  {
+    "provinceId": 410,
+    "name": "浙江省",
+    "weatherId": "AZJ"
+  },
+  {
+    "provinceId": 411,
+    "name": "福建省",
+    "weatherId": "AFJ"
+  },
+  {
+    "provinceId": 412,
+    "name": "江西省",
+    "weatherId": "AJX"
+  },
+  {
+    "provinceId": 413,
+    "name": "安徽省",
+    "weatherId": "AAH"
+  },
+  {
+    "provinceId": 414,
+    "name": "湖北省",
+    "weatherId": "AHB"
+  },
+  {
+    "provinceId": 415,
+    "name": "湖南省",
+    "weatherId": "AHN"
+  },
+  {
+    "provinceId": 416,
+    "name": "广东省",
+    "weatherId": "AGD"
+  },
+  {
+    "provinceId": 417,
+    "name": "海南省",
+    "weatherId": "AHI"
+  },
+  {
+    "provinceId": 418,
+    "name": "贵州省",
+    "weatherId": "AGZ"
+  },
+  {
+    "provinceId": 419,
+    "name": "云南省",
+    "weatherId": "AYN"
+  },
+  {
+    "provinceId": 420,
+    "name": "四川省",
+    "weatherId": "ASC"
+  },
+  {
+    "provinceId": 421,
+    "name": "陕西省",
+    "weatherId": "ASN"
+  },
+  {
+    "provinceId": 422,
+    "name": "甘肃省",
+    "weatherId": "AGS"
+  },
+  {
+    "provinceId": 423,
+    "name": "青海省",
+    "weatherId": "AQH"
+  }
+]

@@ -1,0 +1,2648 @@
+[
+  {
+    "CityId": 10101,
+    "name": "东城区",
+    "provinceId": 101,
+    "weatherId": "ABJ/beijing"
+  },
+  {
+    "CityId": 10102,
+    "name": "西城区",
+    "provinceId": 101,
+    "weatherId": "ABJ/beijing"
+  },
+  {
+    "CityId": 10103,
+    "name": "朝阳区",
+    "provinceId": 101,
+    "weatherId": "ABJ/chaoyang"
+  },
+  {
+    "CityId": 10104,
+    "name": "丰台区",
+    "provinceId": 101,
+    "weatherId": "ABJ/fengtai"
+  },
+  {
+    "CityId": 10105,
+    "name": "石景山区",
+    "provinceId": 101,
+    "weatherId": "ABJ/shijingshan"
+  },
+  {
+    "CityId": 10106,
+    "name": "海淀区",
+    "provinceId": 101,
+    "weatherId": "ABJ/haCityIdian"
+  },
+  {
+    "CityId": 10107,
+    "name": "门头沟区",
+    "provinceId": 101,
+    "weatherId": "ABJ/mentougou"
+  },
+  {
+    "CityId": 10108,
+    "name": "房山区",
+    "provinceId": 101,
+    "weatherId": "ABJ/fangshan"
+  },
+  {
+    "CityId": 10109,
+    "name": "通州区",
+    "provinceId": 101,
+    "weatherId": "ABJ/tongzhou"
+  },
+  {
+    "CityId": 10110,
+    "name": "顺义区",
+    "provinceId": 101,
+    "weatherId": "ABJ/shunyi"
+  },
+  {
+    "CityId": 10111,
+    "name": "昌平区",
+    "provinceId": 101,
+    "weatherId": "ABJ/changping"
+  },
+  {
+    "CityId": 10112,
+    "name": "大兴区",
+    "provinceId": 101,
+    "weatherId": "ABJ/daxing"
+  },
+  {
+    "CityId": 10113,
+    "name": "怀柔区",
+    "provinceId": 101,
+    "weatherId": "ABJ/huairou"
+  },
+  {
+    "CityId": 10114,
+    "name": "平谷区",
+    "provinceId": 101,
+    "weatherId": "ABJ/pinggu"
+  },
+  {
+    "CityId": 10115,
+    "name": "密云区",
+    "provinceId": 101,
+    "weatherId": "ABJ/miyun"
+  },
+  {
+    "CityId": 10116,
+    "name": "延庆区",
+    "provinceId": 101,
+    "weatherId": "ABJ/yanqing"
+  },
+  {
+    "CityId": 10201,
+    "name": "和平区",
+    "provinceId": 102,
+    "weatherId": "ATJ/tianjin"
+  },
+  {
+    "CityId": 10202,
+    "name": "河东区",
+    "provinceId": 102,
+    "weatherId": "ATJ/tianjin"
+  },
+  {
+    "CityId": 10203,
+    "name": "河西区",
+    "provinceId": 102,
+    "weatherId": "ATJ/tianjin"
+  },
+  {
+    "CityId": 10204,
+    "name": "南开区",
+    "provinceId": 102,
+    "weatherId": "ATJ/tianjin"
+  },
+  {
+    "CityId": 10205,
+    "name": "河北区",
+    "provinceId": 102,
+    "weatherId": "ATJ/tianjin"
+  },
+  {
+    "CityId": 10206,
+    "name": "红桥区",
+    "provinceId": 102,
+    "weatherId": "ATJ/tianjin"
+  },
+  {
+    "CityId": 10207,
+    "name": "东丽区",
+    "provinceId": 102,
+    "weatherId": "ATJ/dongli"
+  },
+  {
+    "CityId": 10208,
+    "name": "西青区",
+    "provinceId": 102,
+    "weatherId": "ATJ/xiqing"
+  },
+  {
+    "CityId": 10209,
+    "name": "津南区",
+    "provinceId": 102,
+    "weatherId": "ATJ/jinnan"
+  },
+  {
+    "CityId": 10210,
+    "name": "北辰区",
+    "provinceId": 102,
+    "weatherId": "ATJ/beichen"
+  },
+  {
+    "CityId": 10211,
+    "name": "武清区",
+    "provinceId": 102,
+    "weatherId": "ATJ/wuqing"
+  },
+  {
+    "CityId": 10212,
+    "name": "宝坻区",
+    "provinceId": 102,
+    "weatherId": "ATJ/baodi"
+  },
+  {
+    "CityId": 10213,
+    "name": "滨海新区",
+    "provinceId": 102,
+    "weatherId": "ATJ/binhaixinqu"
+  },
+  {
+    "CityId": 10214,
+    "name": "宁河区",
+    "provinceId": 102,
+    "weatherId": "ATJ/ninghe"
+  },
+  {
+    "CityId": 10215,
+    "name": "静海区",
+    "provinceId": 102,
+    "weatherId": "ATJ/jinghai"
+  },
+  {
+    "CityId": 10216,
+    "name": "蓟州区",
+    "provinceId": 102,
+    "weatherId": "ATJ/jizhou"
+  },
+  {
+    "CityId": 10301,
+    "name": "黄浦区",
+    "provinceId": 103,
+    "weatherId": "ASH/xujiahui"
+  },
+  {
+    "CityId": 10302,
+    "name": "徐汇区",
+    "provinceId": 103,
+    "weatherId": "ASH/xujiahui"
+  },
+  {
+    "CityId": 10303,
+    "name": "长宁区",
+    "provinceId": 103,
+    "weatherId": "ASH/xujiahui"
+  },
+  {
+    "CityId": 10304,
+    "name": "静安区",
+    "provinceId": 103,
+    "weatherId": "ASH/xujiahui"
+  },
+  {
+    "CityId": 10305,
+    "name": "普陀区",
+    "provinceId": 103,
+    "weatherId": "ASH/xujiahui"
+  },
+  {
+    "CityId": 10306,
+    "name": "虹口区",
+    "provinceId": 103,
+    "weatherId": "ASH/xujiahui"
+  },
+  {
+    "CityId": 10307,
+    "name": "杨浦区",
+    "provinceId": 103,
+    "weatherId": "ASH/xujiahui"
+  },
+  {
+    "CityId": 10308,
+    "name": "闵行区",
+    "provinceId": 103,
+    "weatherId": "ASH/minxing"
+  },
+  {
+    "CityId": 10309,
+    "name": "宝山区",
+    "provinceId": 103,
+    "weatherId": "ASH/baoshan"
+  },
+  {
+    "CityId": 10310,
+    "name": "嘉定区",
+    "provinceId": 103,
+    "weatherId": "ASH/jiading"
+  },
+  {
+    "CityId": 10311,
+    "name": "浦东新区",
+    "provinceId": 103,
+    "weatherId": "ASH/pudong"
+  },
+  {
+    "CityId": 10312,
+    "name": "金山区",
+    "provinceId": 103,
+    "weatherId": "ASH/jinshan"
+  },
+  {
+    "CityId": 10313,
+    "name": "松江区",
+    "provinceId": 103,
+    "weatherId": "ASH/songjiang"
+  },
+  {
+    "CityId": 10314,
+    "name": "青浦区",
+    "provinceId": 103,
+    "weatherId": "ASH/qingpu"
+  },
+  {
+    "CityId": 10315,
+    "name": "奉贤区",
+    "provinceId": 103,
+    "weatherId": "ASH/fengxian"
+  },
+  {
+    "CityId": 10316,
+    "name": "崇明区",
+    "provinceId": 103,
+    "weatherId": "ASH/chongming"
+  },
+  {
+    "CityId": 10401,
+    "name": "万州区",
+    "provinceId": 104,
+    "weatherId": "ACQ/wanzhou"
+  },
+  {
+    "CityId": 10402,
+    "name": "涪陵区",
+    "provinceId": 104,
+    "weatherId": "ACQ/fuling"
+  },
+  {
+    "CityId": 10403,
+    "name": "渝中区",
+    "provinceId": 104,
+    "weatherId": "ACQ/shapingba"
+  },
+  {
+    "CityId": 10404,
+    "name": "大渡口区",
+    "provinceId": 104,
+    "weatherId": "ACQ/shapingba"
+  },
+  {
+    "CityId": 10405,
+    "name": "江北区",
+    "provinceId": 104,
+    "weatherId": "ACQ/shapingba"
+  },
+  {
+    "CityId": 10406,
+    "name": "沙坪坝区",
+    "provinceId": 104,
+    "weatherId": "ACQ/shapingba"
+  },
+  {
+    "CityId": 10407,
+    "name": "九龙坡区",
+    "provinceId": 104,
+    "weatherId": "ACQ/shapingba"
+  },
+  {
+    "CityId": 10408,
+    "name": "南岸区",
+    "provinceId": 104,
+    "weatherId": "ACQ/shapingba"
+  },
+  {
+    "CityId": 10409,
+    "name": "北碚区",
+    "provinceId": 104,
+    "weatherId": "ACQ/beibei"
+  },
+  {
+    "CityId": 10410,
+    "name": "綦江区",
+    "provinceId": 104,
+    "weatherId": "ACQ/qijiang"
+  },
+  {
+    "CityId": 10411,
+    "name": "大足区",
+    "provinceId": 104,
+    "weatherId": "ACQ/dazu"
+  },
+  {
+    "CityId": 10412,
+    "name": "渝北区",
+    "provinceId": 104,
+    "weatherId": "ACQ/yubei"
+  },
+  {
+    "CityId": 10413,
+    "name": "巴南区",
+    "provinceId": 104,
+    "weatherId": "ACQ/banan"
+  },
+  {
+    "CityId": 10414,
+    "name": "黔江区",
+    "provinceId": 104,
+    "weatherId": "ACQ/qianjiang"
+  },
+  {
+    "CityId": 10415,
+    "name": "长寿区",
+    "provinceId": 104,
+    "weatherId": "ACQ/changshou"
+  },
+  {
+    "CityId": 10416,
+    "name": "江津区",
+    "provinceId": 104,
+    "weatherId": "ACQ/jiangjin"
+  },
+  {
+    "CityId": 10417,
+    "name": "合川区",
+    "provinceId": 104,
+    "weatherId": "ACQ/hechuan"
+  },
+  {
+    "CityId": 10418,
+    "name": "永川区",
+    "provinceId": 104,
+    "weatherId": "ACQ/yongchuan"
+  },
+  {
+    "CityId": 10419,
+    "name": "南川区",
+    "provinceId": 104,
+    "weatherId": "ACQ/nanchuan"
+  },
+  {
+    "CityId": 10420,
+    "name": "璧山区",
+    "provinceId": 104,
+    "weatherId": "ACQ/bishan"
+  },
+  {
+    "CityId": 10421,
+    "name": "铜梁区",
+    "provinceId": 104,
+    "weatherId": "ACQ/tongliang"
+  },
+  {
+    "CityId": 10422,
+    "name": "潼南区",
+    "provinceId": 104,
+    "weatherId": "ACQ/tongnan"
+  },
+  {
+    "CityId": 10423,
+    "name": "荣昌区",
+    "provinceId": 104,
+    "weatherId": "ACQ/rongchang"
+  },
+  {
+    "CityId": 10424,
+    "name": "开州区",
+    "provinceId": 104,
+    "weatherId": "ACQ/kaixian"
+  },
+  {
+    "CityId": 10425,
+    "name": "梁平区",
+    "provinceId": 104,
+    "weatherId": "ACQ/liangping"
+  },
+  {
+    "CityId": 10426,
+    "name": "武隆区",
+    "provinceId": 104,
+    "weatherId": "ACQ/wulong"
+  },
+  {
+    "CityId": 10427,
+    "name": "城口县",
+    "provinceId": 104,
+    "weatherId": "ACQ/chengkou"
+  },
+  {
+    "CityId": 10428,
+    "name": "丰都县",
+    "provinceId": 104,
+    "weatherId": "ACQ/fengdou"
+  },
+  {
+    "CityId": 10429,
+    "name": "垫江县",
+    "provinceId": 104,
+    "weatherId": "ACQ/dianjiang"
+  },
+  {
+    "CityId": 10430,
+    "name": "忠县",
+    "provinceId": 104,
+    "weatherId": "ACQ/zhongxian"
+  },
+  {
+    "CityId": 10431,
+    "name": "云阳县",
+    "provinceId": 104,
+    "weatherId": "ACQ/yunyang"
+  },
+  {
+    "CityId": 10432,
+    "name": "奉节县",
+    "provinceId": 104,
+    "weatherId": "ACQ/fengjie"
+  },
+  {
+    "CityId": 10433,
+    "name": "巫山县",
+    "provinceId": 104,
+    "weatherId": "ACQ/wushan"
+  },
+  {
+    "CityId": 10434,
+    "name": "巫溪县",
+    "provinceId": 104,
+    "weatherId": "ACQ/wuxi"
+  },
+  {
+    "CityId": 10435,
+    "name": "石柱土家族自治县",
+    "provinceId": 104,
+    "weatherId": "ACQ/shizhu"
+  },
+  {
+    "CityId": 10436,
+    "name": "秀山土家族苗族自治县",
+    "provinceId": 104,
+    "weatherId": "ACQ/xiushan"
+  },
+  {
+    "CityId": 10437,
+    "name": "酉阳土家族苗族自治县",
+    "provinceId": 104,
+    "weatherId": "ACQ/youyang"
+  },
+  {
+    "CityId": 10438,
+    "name": "彭水苗族土家族自治县",
+    "provinceId": 104,
+    "weatherId": "ACQ/pengshui"
+  },
+  {
+    "CityId": 20101,
+    "name": "香港",
+    "provinceId": 201,
+    "weatherId": "AXG/xianggang"
+  },
+  {
+    "CityId": 20201,
+    "name": "澳门",
+    "provinceId": 202,
+    "weatherId": "AAM/aomen"
+  },
+  {
+    "CityId": 30101,
+    "name": "呼和浩特市",
+    "provinceId": 301,
+    "weatherId": "ANM/huhehaote"
+  },
+  {
+    "CityId": 30102,
+    "name": "包头市",
+    "provinceId": 301,
+    "weatherId": "ANM/baotou"
+  },
+  {
+    "CityId": 30103,
+    "name": "乌海市",
+    "provinceId": 301,
+    "weatherId": "ANM/wuhai"
+  },
+  {
+    "CityId": 30104,
+    "name": "赤峰市",
+    "provinceId": 301,
+    "weatherId": "ANM/chifeng"
+  },
+  {
+    "CityId": 30105,
+    "name": "通辽市",
+    "provinceId": 301,
+    "weatherId": "ANM/tongliao"
+  },
+  {
+    "CityId": 30106,
+    "name": "鄂尔多斯市",
+    "provinceId": 301,
+    "weatherId": "ANM/dongsheng"
+  },
+  {
+    "CityId": 30107,
+    "name": "呼伦贝尔市",
+    "provinceId": 301,
+    "weatherId": "ANM/hailaer"
+  },
+  {
+    "CityId": 30108,
+    "name": "巴彦淖尔市",
+    "provinceId": 301,
+    "weatherId": "ANM/linhe"
+  },
+  {
+    "CityId": 30109,
+    "name": "乌兰察布市",
+    "provinceId": 301,
+    "weatherId": "ANM/jining"
+  },
+  {
+    "CityId": 30110,
+    "name": "兴安盟",
+    "provinceId": 301,
+    "weatherId": "ANM/wulanhaote"
+  },
+  {
+    "CityId": 30111,
+    "name": "锡林郭勒盟",
+    "provinceId": 301,
+    "weatherId": "ANM/xilinhaote"
+  },
+  {
+    "CityId": 30112,
+    "name": "阿拉善盟",
+    "provinceId": 301,
+    "weatherId": "ANM/alashanzuoqi"
+  },
+  {
+    "CityId": 30201,
+    "name": "南宁市",
+    "provinceId": 302,
+    "weatherId": "AGX/nanning"
+  },
+  {
+    "CityId": 30202,
+    "name": "柳州市",
+    "provinceId": 302,
+    "weatherId": "AGX/liuzhou"
+  },
+  {
+    "CityId": 30203,
+    "name": "桂林市",
+    "provinceId": 302,
+    "weatherId": "AGX/guilin"
+  },
+  {
+    "CityId": 30204,
+    "name": "梧州市",
+    "provinceId": 302,
+    "weatherId": "AGX/wuzhou"
+  },
+  {
+    "CityId": 30205,
+    "name": "北海市",
+    "provinceId": 302,
+    "weatherId": "AGX/beihai"
+  },
+  {
+    "CityId": 30206,
+    "name": "防城港市",
+    "provinceId": 302,
+    "weatherId": "AGX/fangchenggang"
+  },
+  {
+    "CityId": 30207,
+    "name": "钦州市",
+    "provinceId": 302,
+    "weatherId": "AGX/qinzhou"
+  },
+  {
+    "CityId": 30208,
+    "name": "贵港市",
+    "provinceId": 302,
+    "weatherId": "AGX/guigang"
+  },
+  {
+    "CityId": 30209,
+    "name": "玉林市",
+    "provinceId": 302,
+    "weatherId": "AGX/yulin"
+  },
+  {
+    "CityId": 30210,
+    "name": "百色市",
+    "provinceId": 302,
+    "weatherId": "AGX/baise"
+  },
+  {
+    "CityId": 30211,
+    "name": "贺州市",
+    "provinceId": 302,
+    "weatherId": "AGX/hezhou"
+  },
+  {
+    "CityId": 30212,
+    "name": "河池市",
+    "provinceId": 302,
+    "weatherId": "AGX/hechi"
+  },
+  {
+    "CityId": 30213,
+    "name": "来宾市",
+    "provinceId": 302,
+    "weatherId": "AGX/laibin"
+  },
+  {
+    "CityId": 30214,
+    "name": "崇左市",
+    "provinceId": 302,
+    "weatherId": "AGX/chongzuo"
+  },
+  {
+    "CityId": 30301,
+    "name": "拉萨市",
+    "provinceId": 303,
+    "weatherId": "AXZ/lasa"
+  },
+  {
+    "CityId": 30302,
+    "name": "日喀则市",
+    "provinceId": 303,
+    "weatherId": "AXZ/rikaze"
+  },
+  {
+    "CityId": 30303,
+    "name": "昌都市",
+    "provinceId": 303,
+    "weatherId": "AXZ/changdou"
+  },
+  {
+    "CityId": 30304,
+    "name": "林芝市",
+    "provinceId": 303,
+    "weatherId": "AXZ/linzhi"
+  },
+  {
+    "CityId": 30305,
+    "name": "山南市",
+    "provinceId": 303,
+    "weatherId": "AXZ/zedang"
+  },
+  {
+    "CityId": 30306,
+    "name": "那曲市",
+    "provinceId": 303,
+    "weatherId": "AXZ/naqu"
+  },
+  {
+    "CityId": 30307,
+    "name": "阿里地区",
+    "provinceId": 303,
+    "weatherId": "AXZ/shiquanhe"
+  },
+  {
+    "CityId": 30401,
+    "name": "银川市",
+    "provinceId": 304,
+    "weatherId": "ANX/yinchuan"
+  },
+  {
+    "CityId": 30402,
+    "name": "石嘴山市",
+    "provinceId": 304,
+    "weatherId": "ANX/shizuishan"
+  },
+  {
+    "CityId": 30403,
+    "name": "吴忠市",
+    "provinceId": 304,
+    "weatherId": "ANX/wuzhong"
+  },
+  {
+    "CityId": 30404,
+    "name": "固原市",
+    "provinceId": 304,
+    "weatherId": "ANX/guyuan"
+  },
+  {
+    "CityId": 30405,
+    "name": "中卫市",
+    "provinceId": 304,
+    "weatherId": "ANX/zhongwei"
+  },
+  {
+    "CityId": 30501,
+    "name": "乌鲁木齐市",
+    "provinceId": 305,
+    "weatherId": "AXJ/wulumuqi"
+  },
+  {
+    "CityId": 30502,
+    "name": "克拉玛依市",
+    "provinceId": 305,
+    "weatherId": "AXJ/kelamayi"
+  },
+  {
+    "CityId": 30503,
+    "name": "吐鲁番市",
+    "provinceId": 305,
+    "weatherId": "AXJ/tulufan"
+  },
+  {
+    "CityId": 30504,
+    "name": "哈密市",
+    "provinceId": 305,
+    "weatherId": "AXJ/hami"
+  },
+  {
+    "CityId": 30505,
+    "name": "昌吉回族自治州",
+    "provinceId": 305,
+    "weatherId": "AXJ/changji"
+  },
+  {
+    "CityId": 30506,
+    "name": "博尔塔拉蒙古自治州",
+    "provinceId": 305,
+    "weatherId": "AXJ/bole"
+  },
+  {
+    "CityId": 30507,
+    "name": "巴音郭楞蒙古自治州",
+    "provinceId": 305,
+    "weatherId": "AXJ/kuerle"
+  },
+  {
+    "CityId": 30508,
+    "name": "阿克苏地区",
+    "provinceId": 305,
+    "weatherId": "AXJ/akesu"
+  },
+  {
+    "CityId": 30509,
+    "name": "克孜勒苏柯尔克孜自治州",
+    "provinceId": 305,
+    "weatherId": "AXJ/atushen"
+  },
+  {
+    "CityId": 30510,
+    "name": "喀什地区",
+    "provinceId": 305,
+    "weatherId": "AXJ/kashen"
+  },
+  {
+    "CityId": 30511,
+    "name": "和田地区",
+    "provinceId": 305,
+    "weatherId": "AXJ/hetian"
+  },
+  {
+    "CityId": 30512,
+    "name": "伊犁哈萨克自治州",
+    "provinceId": 305,
+    "weatherId": "AXJ/yiningshi"
+  },
+  {
+    "CityId": 30513,
+    "name": "塔城地区",
+    "provinceId": 305,
+    "weatherId": "AXJ/tacheng"
+  },
+  {
+    "CityId": 30514,
+    "name": "阿勒泰地区",
+    "provinceId": 305,
+    "weatherId": "AXJ/aletai"
+  },
+  {
+    "CityId": 40101,
+    "name": "台北市",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40102,
+    "name": "高雄市",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40103,
+    "name": "台中市",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40104,
+    "name": "台南市",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40105,
+    "name": "新北市",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40106,
+    "name": "桃园市",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40107,
+    "name": "嘉义市",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40108,
+    "name": "新竹市",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40109,
+    "name": "基隆市",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40110,
+    "name": "宜兰县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40111,
+    "name": "新竹县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40112,
+    "name": "苗栗县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40113,
+    "name": "彰化县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40114,
+    "name": "南投县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40115,
+    "name": "云林县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40116,
+    "name": "嘉义县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40117,
+    "name": "屏东县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40118,
+    "name": "台东县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40119,
+    "name": "花莲县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40120,
+    "name": "澎湖县",
+    "provinceId": 401,
+    "weatherId": "ATW/taibei"
+  },
+  {
+    "CityId": 40201,
+    "name": "哈尔滨市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "齐齐哈尔市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "鸡西市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "鹤岗市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "双鸭山市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "大庆市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "伊春市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "佳木斯市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "七台河市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "牡丹江市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "黑河市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "绥化市",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40201,
+    "name": "大兴安岭地区",
+    "provinceId": 402,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40301,
+    "name": "长春市",
+    "provinceId": 403,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40301,
+    "name": "吉林市",
+    "provinceId": 403,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40301,
+    "name": "四平市",
+    "provinceId": 403,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40301,
+    "name": "辽源市",
+    "provinceId": 403,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40301,
+    "name": "通化市",
+    "provinceId": 403,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40301,
+    "name": "白山市",
+    "provinceId": 403,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40301,
+    "name": "松原市",
+    "provinceId": 403,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40301,
+    "name": "白城市",
+    "provinceId": 403,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40301,
+    "name": "延边朝鲜族自治州",
+    "provinceId": 403,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40401,
+    "name": "沈阳市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40402,
+    "name": "大连市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40403,
+    "name": "鞍山市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40404,
+    "name": "抚顺市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40405,
+    "name": "本溪市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40406,
+    "name": "丹东市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40407,
+    "name": "锦州市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40408,
+    "name": "营口市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40409,
+    "name": "阜新市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40410,
+    "name": "辽阳市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40411,
+    "name": "盘锦市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40412,
+    "name": "铁岭市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40413,
+    "name": "朝阳市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40414,
+    "name": "葫芦岛市",
+    "provinceId": 404,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40501,
+    "name": "石家庄市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40502,
+    "name": "唐山市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40503,
+    "name": "秦皇岛市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40504,
+    "name": "邯郸市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40505,
+    "name": "邢台市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40506,
+    "name": "保定市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40507,
+    "name": "张家口市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40508,
+    "name": "承德市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40509,
+    "name": "沧州市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40510,
+    "name": "廊坊市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40511,
+    "name": "衡水市",
+    "provinceId": 405,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40601,
+    "name": "郑州市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40602,
+    "name": "开封市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40603,
+    "name": "洛阳市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40604,
+    "name": "平顶山市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40605,
+    "name": "安阳市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40606,
+    "name": "鹤壁市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40607,
+    "name": "新乡市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40608,
+    "name": "焦作市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40609,
+    "name": "濮阳市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40610,
+    "name": "许昌市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40611,
+    "name": "漯河市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40612,
+    "name": "三门峡市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40613,
+    "name": "南阳市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40614,
+    "name": "商丘市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40615,
+    "name": "信阳市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40616,
+    "name": "周口市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40617,
+    "name": "驻马店市",
+    "provinceId": 406,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40701,
+    "name": "太原市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40702,
+    "name": "大同市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40703,
+    "name": "阳泉市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40704,
+    "name": "长治市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40705,
+    "name": "晋城市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40706,
+    "name": "朔州市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40707,
+    "name": "晋中市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40708,
+    "name": "运城市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40709,
+    "name": "忻州市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40710,
+    "name": "临汾市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40711,
+    "name": "吕梁市",
+    "provinceId": 407,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40801,
+    "name": "济南市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40802,
+    "name": "青岛市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40803,
+    "name": "淄博市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40804,
+    "name": "枣庄市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40805,
+    "name": "东营市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40806,
+    "name": "烟台市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40807,
+    "name": "潍坊市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40808,
+    "name": "济宁市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40809,
+    "name": "泰安市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40810,
+    "name": "威海市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40811,
+    "name": "日照市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40812,
+    "name": "临沂市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40813,
+    "name": "德州市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40814,
+    "name": "聊城市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40815,
+    "name": "滨州市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40816,
+    "name": "菏泽市",
+    "provinceId": 408,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40901,
+    "name": "南京市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40902,
+    "name": "无锡市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40903,
+    "name": "徐州市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40904,
+    "name": "常州市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40905,
+    "name": "苏州市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40906,
+    "name": "南通市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40907,
+    "name": "连云港市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40908,
+    "name": "淮安市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40909,
+    "name": "盐城市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40910,
+    "name": "扬州市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40911,
+    "name": "镇江市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40912,
+    "name": "泰州市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 40913,
+    "name": "宿迁市",
+    "provinceId": 409,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41001,
+    "name": "杭州市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41002,
+    "name": "宁波市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41003,
+    "name": "温州市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41004,
+    "name": "嘉兴市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41005,
+    "name": "湖州市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41006,
+    "name": "绍兴市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41007,
+    "name": "金华市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41008,
+    "name": "衢州市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41009,
+    "name": "舟山市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41010,
+    "name": "台州市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41011,
+    "name": "丽水市",
+    "provinceId": 410,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41101,
+    "name": "福州市",
+    "provinceId": 411,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41102,
+    "name": "厦门市",
+    "provinceId": 411,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41103,
+    "name": "莆田市",
+    "provinceId": 411,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41104,
+    "name": "三明市",
+    "provinceId": 411,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41105,
+    "name": "泉州市",
+    "provinceId": 411,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41106,
+    "name": "漳州市",
+    "provinceId": 411,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41107,
+    "name": "南平市",
+    "provinceId": 411,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41108,
+    "name": "龙岩市",
+    "provinceId": 411,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41109,
+    "name": "宁德市",
+    "provinceId": 411,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41201,
+    "name": "南昌市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41202,
+    "name": "景德镇市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41203,
+    "name": "萍乡市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41204,
+    "name": "九江市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41205,
+    "name": "新余市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41206,
+    "name": "鹰潭市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41207,
+    "name": "赣州市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41208,
+    "name": "吉安市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41209,
+    "name": "宜春市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41210,
+    "name": "抚州市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41211,
+    "name": "上饶市",
+    "provinceId": 412,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41301,
+    "name": "合肥市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41302,
+    "name": "芜湖市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41303,
+    "name": "蚌埠市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41304,
+    "name": "淮南市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41305,
+    "name": "马鞍山市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41306,
+    "name": "淮北市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41307,
+    "name": "铜陵市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41308,
+    "name": "安庆市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41309,
+    "name": "黄山市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41310,
+    "name": "滁州市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41311,
+    "name": "阜阳市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41312,
+    "name": "宿州市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41313,
+    "name": "六安市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41314,
+    "name": "亳州市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41315,
+    "name": "池州市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41316,
+    "name": "宣城市",
+    "provinceId": 413,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41401,
+    "name": "武汉市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41402,
+    "name": "黄石市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41403,
+    "name": "十堰市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41404,
+    "name": "宜昌市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41405,
+    "name": "襄阳市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41406,
+    "name": "鄂州市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41407,
+    "name": "荆门市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41408,
+    "name": "孝感市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41409,
+    "name": "荆州市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41410,
+    "name": "黄冈市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41411,
+    "name": "咸宁市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41412,
+    "name": "随州市",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41413,
+    "name": "恩施土家族苗族自治州",
+    "provinceId": 414,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41501,
+    "name": "长沙市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41502,
+    "name": "株洲市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41503,
+    "name": "湘潭市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41504,
+    "name": "衡阳市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41505,
+    "name": "邵阳市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41506,
+    "name": "岳阳市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41507,
+    "name": "常德市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41508,
+    "name": "张家界市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41509,
+    "name": "益阳市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41510,
+    "name": "郴州市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41511,
+    "name": "永州市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41512,
+    "name": "怀化市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41513,
+    "name": "娄底市",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41514,
+    "name": "湘西土家族苗族自治州",
+    "provinceId": 415,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41601,
+    "name": "广州市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41602,
+    "name": "韶关市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41603,
+    "name": "深圳市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41604,
+    "name": "珠海市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41605,
+    "name": "汕头市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41606,
+    "name": "佛山市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41607,
+    "name": "江门市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41608,
+    "name": "湛江市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41609,
+    "name": "茂名市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41610,
+    "name": "肇庆市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41611,
+    "name": "惠州市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41612,
+    "name": "梅州市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41613,
+    "name": "汕尾市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41614,
+    "name": "河源市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41615,
+    "name": "阳江市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41616,
+    "name": "清远市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41617,
+    "name": "东莞市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41618,
+    "name": "中山市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41619,
+    "name": "潮州市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41620,
+    "name": "揭阳市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41621,
+    "name": "云浮市",
+    "provinceId": 416,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41701,
+    "name": "海口市",
+    "provinceId": 417,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41702,
+    "name": "三亚市",
+    "provinceId": 417,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41703,
+    "name": "三沙市",
+    "provinceId": 417,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41704,
+    "name": "儋州市",
+    "provinceId": 417,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41801,
+    "name": "贵阳市",
+    "provinceId": 418,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41802,
+    "name": "六盘水市",
+    "provinceId": 418,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41803,
+    "name": "遵义市",
+    "provinceId": 418,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41804,
+    "name": "安顺市",
+    "provinceId": 418,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41805,
+    "name": "毕节市",
+    "provinceId": 418,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41806,
+    "name": "铜仁市",
+    "provinceId": 418,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41807,
+    "name": "黔西南布依族苗族自治州",
+    "provinceId": 418,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41808,
+    "name": "黔东南苗族侗族自治州",
+    "provinceId": 418,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41809,
+    "name": "黔南布依族苗族自治州",
+    "provinceId": 418,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41901,
+    "name": "昆明市",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41902,
+    "name": "曲靖市",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41903,
+    "name": "玉溪市",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41904,
+    "name": "保山市",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41905,
+    "name": "昭通市",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41906,
+    "name": "丽江市",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41907,
+    "name": "普洱市",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41908,
+    "name": "临沧市",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41909,
+    "name": "楚雄彝族自治州",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41910,
+    "name": "红河哈尼族彝族自治州",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41911,
+    "name": "文山壮族苗族自治州",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41912,
+    "name": "西双版纳傣族自治州",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41913,
+    "name": "大理白族自治州",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41914,
+    "name": "德宏傣族景颇族自治州",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41915,
+    "name": "怒江傈僳族自治州",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 41916,
+    "name": "迪庆藏族自治州",
+    "provinceId": 419,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42001,
+    "name": "成都市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42002,
+    "name": "自贡市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42003,
+    "name": "攀枝花市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42004,
+    "name": "泸州市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42005,
+    "name": "德阳市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42006,
+    "name": "绵阳市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42007,
+    "name": "广元市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42008,
+    "name": "遂宁市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42009,
+    "name": "内江市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42010,
+    "name": "乐山市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42011,
+    "name": "南充市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42012,
+    "name": "眉山市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42013,
+    "name": "宜宾市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42014,
+    "name": "广安市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42015,
+    "name": "达州市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42016,
+    "name": "雅安市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42017,
+    "name": "巴中市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42018,
+    "name": "资阳市",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42019,
+    "name": "阿坝藏族羌族自治州",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42020,
+    "name": "甘孜藏族自治州",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42021,
+    "name": "凉山彝族自治州",
+    "provinceId": 420,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42101,
+    "name": "西安市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42102,
+    "name": "铜川市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42103,
+    "name": "宝鸡市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42104,
+    "name": "咸阳市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42105,
+    "name": "渭南市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42106,
+    "name": "延安市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42107,
+    "name": "汉中市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42108,
+    "name": "榆林市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42109,
+    "name": "安康市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42110,
+    "name": "商洛市",
+    "provinceId": 421,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42201,
+    "name": "兰州市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42202,
+    "name": "嘉峪关市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42203,
+    "name": "金昌市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42204,
+    "name": "白银市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42205,
+    "name": "天水市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42206,
+    "name": "武威市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42207,
+    "name": "张掖市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42208,
+    "name": "平凉市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42209,
+    "name": "酒泉市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42210,
+    "name": "庆阳市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42211,
+    "name": "定西市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42212,
+    "name": "陇南市",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42213,
+    "name": "临夏回族自治州",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42214,
+    "name": "甘南藏族自治州",
+    "provinceId": 422,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42301,
+    "name": "西宁市",
+    "provinceId": 423,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42302,
+    "name": "海东市",
+    "provinceId": 423,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42303,
+    "name": "海北藏族自治州",
+    "provinceId": 423,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42304,
+    "name": "黄南藏族自治州",
+    "provinceId": 423,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42305,
+    "name": "海南藏族自治州",
+    "provinceId": 423,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42306,
+    "name": "果洛藏族自治州",
+    "provinceId": 423,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42307,
+    "name": "玉树藏族自治州",
+    "provinceId": 423,
+    "weatherId": "AAH/hefei"
+  },
+  {
+    "CityId": 42308,
+    "name": "海西蒙古族藏族自治州",
+    "provinceId": 423,
+    "weatherId": "AAH/hefei"
+  }
+]
