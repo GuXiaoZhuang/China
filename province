@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "provinceId": "10101",
+    "provinceName": "北京"
+  },
+  {
+    "id": 2,
+    "provinceId": "10102",
+    "provinceName": "上海"
+  },
+  {
+    "id": 3,
+    "provinceId": "10103",
+    "provinceName": "天津"
+  },
+  {
+    "id": 4,
+    "provinceId": "10104",
+    "provinceName": "重庆"
+  },
+  {
+    "id": 5,
+    "provinceId": "10105",
+    "provinceName": "黑龙江"
+  },
+  {
+    "id": 6,
+    "provinceId": "10106",
+    "provinceName": "吉林"
+  },
+  {
+    "id": 7,
+    "provinceId": "10107",
+    "provinceName": "辽宁"
+  },
+  {
+    "id": 8,
+    "provinceId": "10108",
+    "provinceName": "内蒙古"
+  },
+  {
+    "id": 9,
+    "provinceId": "10109",
+    "provinceName": "河北"
+  },
+  {
+    "id": 10,
+    "provinceId": "10110",
+    "provinceName": "山西"
+  },
+  {
+    "id": 11,
+    "provinceId": "10111",
+    "provinceName": "陕西"
+  },
+  {
+    "id": 12,
+    "provinceId": "10112",
+    "provinceName": "山东"
+  },
+  {
+    "id": 13,
+    "provinceId": "10113",
+    "provinceName": "新疆"
+  },
+  {
+    "id": 14,
+    "provinceId": "10114",
+    "provinceName": "西藏"
+  },
+  {
+    "id": 15,
+    "provinceId": "10115",
+    "provinceName": "青海"
+  },
+  {
+    "id": 16,
+    "provinceId": "10116",
+    "provinceName": "甘肃"
+  },
+  {
+    "id": 17,
+    "provinceId": "10117",
+    "provinceName": "宁夏"
+  },
+  {
+    "id": 18,
+    "provinceId": "10118",
+    "provinceName": "河南"
+  },
+  {
+    "id": 19,
+    "provinceId": "10119",
+    "provinceName": "江苏"
+  },
+  {
+    "id": 20,
+    "provinceId": "10120",
+    "provinceName": "湖北"
+  },
+  {
+    "id": 21,
+    "provinceId": "10121",
+    "provinceName": "浙江"
+  },
+  {
+    "id": 22,
+    "provinceId": "10122",
+    "provinceName": "安徽"
+  },
+  {
+    "id": 23,
+    "provinceId": "10123",
+    "provinceName": "福建"
+  },
+  {
+    "id": 24,
+    "provinceId": "10124",
+    "provinceName": "江西"
+  },
+  {
+    "id": 25,
+    "provinceId": "10125",
+    "provinceName": "湖南"
+  },
+  {
+    "id": 26,
+    "provinceId": "10126",
+    "provinceName": "贵州"
+  },
+  {
+    "id": 27,
+    "provinceId": "10127",
+    "provinceName": "四川"
+  },
+  {
+    "id": 28,
+    "provinceId": "10128",
+    "provinceName": "广东"
+  },
+  {
+    "id": 29,
+    "provinceId": "10129",
+    "provinceName": "云南"
+  },
+  {
+    "id": 30,
+    "provinceId": "10130",
+    "provinceName": "广西"
+  },
+  {
+    "id": 31,
+    "provinceId": "10131",
+    "provinceName": "海南"
+  },
+  {
+    "id": 32,
+    "provinceId": "10132",
+    "provinceName": "香港"
+  },
+  {
+    "id": 33,
+    "provinceId": "10133",
+    "provinceName": "澳门"
+  },
+  {
+    "id": 34,
+    "provinceId": "10134",
+    "provinceName": "台湾"
+  }
+]
